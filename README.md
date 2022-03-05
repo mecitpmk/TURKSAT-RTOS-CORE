@@ -11,3 +11,7 @@ flagini eklemeyi unutmayınız.
 
 Amaç : oluşturulacak enum'lar minimum boyutta olacaktır.
 
+
+# Satellite Package Frame
+
+![payload_mechn](https://user-images.githubusercontent.com/63451008/156889344-194af94c-6a60-462d-b00c-e0dc2aed6b4e.png)
