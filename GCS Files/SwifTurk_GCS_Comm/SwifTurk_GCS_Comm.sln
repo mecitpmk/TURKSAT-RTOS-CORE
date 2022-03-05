@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwifTurk_GCS_Comm", "SwifTurk_GCS_Comm\SwifTurk_GCS_Comm.csproj", "{56937C04-F6C4-41C4-940C-6377BFA2870C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56937C04-F6C4-41C4-940C-6377BFA2870C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56937C04-F6C4-41C4-940C-6377BFA2870C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56937C04-F6C4-41C4-940C-6377BFA2870C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56937C04-F6C4-41C4-940C-6377BFA2870C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A212265E-E4F7-4514-AE59-1EE00D0B7042}
+	EndGlobalSection
+EndGlobal

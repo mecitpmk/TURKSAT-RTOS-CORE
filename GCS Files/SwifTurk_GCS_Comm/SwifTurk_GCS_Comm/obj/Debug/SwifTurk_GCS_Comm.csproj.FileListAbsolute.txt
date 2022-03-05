@@ -1,0 +1,9 @@
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\bin\Debug\SwifTurk_GCS_Comm.exe
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\bin\Debug\SwifTurk_GCS_Comm.pdb
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\obj\Debug\SwifTurk_GCS_Comm.Form1.resources
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\obj\Debug\SwifTurk_GCS_Comm.Properties.Resources.resources
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\obj\Debug\SwifTurk_GCS_Comm.csproj.GenerateResource.cache
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\obj\Debug\SwifTurk_GCS_Comm.csproj.CoreCompileInputs.cache
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\obj\Debug\SwifTurk_GCS_Comm.exe
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\obj\Debug\SwifTurk_GCS_Comm.pdb
+C:\Users\Mecit\source\repos\SwifTurk_GCS_Comm\SwifTurk_GCS_Comm\obj\Debug\SwifTurk_GCS_Comm.csprojAssemblyReference.cache
